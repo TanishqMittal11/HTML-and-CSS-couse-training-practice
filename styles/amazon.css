@@ -51,3 +51,8 @@
 .Buy-Button:active {
   opacity: 0.5;
 }
+
+.link,
+.textbar {
+  display: block;
+}
